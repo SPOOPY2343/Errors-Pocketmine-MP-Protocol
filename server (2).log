@@ -1,0 +1,176 @@
+2026-09-27 [03:26:37.858] [Server thread/INFO]: Loading server configuration
+2026-09-27 [03:26:37.865] [Server thread/INFO]: Selected English (eng) as the base language
+2026-09-27 [03:26:37.866] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v26.50
+2026-09-27 [03:26:37.866] [Server thread/INFO]: Multi-version support: accepting client protocols from 589 up to 2193 (31 versions supported)
+2026-09-27 [03:26:37.890] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2026-09-27 [03:26:37.895] [Server thread/INFO]: This server is running PocketMine-Fenix version 5.48.0
+2026-09-27 [03:26:37.895] [Server thread/INFO]: PocketMine-Fenix is distributed under the LGPL License
+2026-09-27 [03:26:38.184] [Server thread/INFO]: Loading resource packs...
+2026-09-27 [03:26:38.262] [Server thread/INFO]: Preparing world "world"
+2026-09-27 [03:26:38.583] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:31495
+2026-09-27 [03:26:38.583] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:31495
+2026-09-27 [03:26:38.592] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2026-09-27 [03:26:38.593] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2026-09-27 [03:26:38.593] [Server thread/INFO]: Default game type: Survival Mode
+2026-09-27 [03:26:38.593] [Server thread/INFO]: 
+
+- Source code: https://github.com/PocketMine-Fenix/PocketMine-Fenix
+- Free plugins: https://poggit.pmmp.io/plugins
+- Bug reporting: https://github.com/PocketMine-Fenix/PocketMine-Fenix/issues
+
+2026-09-27 [03:26:38.593] [Server thread/INFO]: Done (0.736s)! For help, type "help" or "?"
+2026-09-27 [03:27:06.556] [Server thread/INFO]: [NetworkSession: 201.114.107.121 41046] Session opened
+2026-09-27 [03:27:07.391] [Server thread/INFO]: [NetworkSession: 201.114.107.121 41046] Player: zIx45351N0lz
+2026-09-27 [03:27:07.392] [Server thread/NOTICE]: [Minecraft Auth Key Provider] Fetching new authentication keys
+2026-09-27 [03:27:08.151] [Server thread/INFO]: [Minecraft Auth Key Provider] Successfully fetched 3 new authentication keys from issuer https://authorization.franchise.minecraft-services.net/, key IDs: 472E53B520276E1F3B6BA6F95EBF09D61C2568BE, 3D5C5F6F4FBD601B0A451D7759A8730F34A6DA51, 31C1F30E3812C23912153BA83A4EC537E0E6CE84
+2026-09-27 [03:27:09.442] [Server thread/INFO]: zIx45351N0lz[/201.114.107.121:41046] logged in with entity id 1 at (world, 254.0586, 70.928, 224.2788)
+2026-09-27 [03:27:13.501] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] Session closed: Client disconnected
+2026-09-27 [03:27:17.199] [AsyncWorker#20 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 94.88 ms (44991 -> 0 roots, 0 cycles collected)
+2026-09-27 [03:27:17.591] [AsyncWorker#19 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 93.54 ms (44991 -> 0 roots, 0 cycles collected)
+2026-09-27 [03:27:17.695] [AsyncWorker#21 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 93.63 ms (44991 -> 0 roots, 0 cycles collected)
+2026-09-27 [03:27:17.899] [AsyncWorker#23 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 89.84 ms (44991 -> 0 roots, 0 cycles collected)
+2026-09-27 [03:27:18.493] [AsyncWorker#24 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 99.73 ms (44991 -> 0 roots, 0 cycles collected)
+2026-09-27 [03:27:28.801] [AsyncWorker#26 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 390.12 ms (92091 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:27:28.897] [AsyncWorker#27 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 397.90 ms (92098 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:27:28.995] [AsyncWorker#29 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 409.84 ms (92090 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:27:28.996] [AsyncWorker#25 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 496.10 ms (92091 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:27:29.095] [AsyncWorker#28 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 401.44 ms (92091 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:27:29.216] [AsyncWorker#16 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 119.47 ms (92091 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:27:29.402] [AsyncWorker#18 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 184.64 ms (92094 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:27:31.093] [AsyncWorker#17 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 116.53 ms (92094 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:27:32.996] [AsyncWorker#15 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 298.41 ms (92091 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:27:33.094] [AsyncWorker#14 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 302.81 ms (92094 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:27:35.397] [AsyncWorker#7 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 293.66 ms (92098 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:27:36.093] [AsyncWorker#1 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 210.52 ms (92091 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:27:36.104] [AsyncWorker#12 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 202.76 ms (92091 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:27:36.195] [AsyncWorker#0 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 198.06 ms (92099 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:27:36.200] [AsyncWorker#4 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 189.43 ms (92091 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:27:36.211] [AsyncWorker#13 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 196.93 ms (92094 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:27:36.215] [AsyncWorker#6 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 196.35 ms (92098 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:27:36.298] [AsyncWorker#5 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 195.43 ms (92091 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:27:36.299] [AsyncWorker#3 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 275.56 ms (92098 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:27:36.302] [AsyncWorker#2 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 200.80 ms (92098 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:27:36.315] [AsyncWorker#11 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 119.72 ms (92091 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:33:54.222] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2026-09-27 [03:33:54.262] [Server thread/INFO]: Unloading world "world"
+2026-09-27 [03:34:42.016] [Server thread/INFO]: Loading server configuration
+2026-09-27 [03:34:42.023] [Server thread/INFO]: Selected English (eng) as the base language
+2026-09-27 [03:34:42.024] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v26.50
+2026-09-27 [03:34:42.024] [Server thread/INFO]: Multi-version support: accepting client protocols from 589 up to 2193 (31 versions supported)
+2026-09-27 [03:34:42.026] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2026-09-27 [03:34:42.031] [Server thread/INFO]: This server is running PocketMine-Fenix version 5.48.0
+2026-09-27 [03:34:42.031] [Server thread/INFO]: PocketMine-Fenix is distributed under the LGPL License
+2026-09-27 [03:34:42.325] [Server thread/INFO]: Loading resource packs...
+2026-09-27 [03:34:42.408] [Server thread/INFO]: Preparing world "world"
+2026-09-27 [03:34:42.731] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:31495
+2026-09-27 [03:34:42.731] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:31495
+2026-09-27 [03:34:42.740] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2026-09-27 [03:34:42.740] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2026-09-27 [03:34:42.741] [Server thread/INFO]: Default game type: Survival Mode
+2026-09-27 [03:34:42.741] [Server thread/INFO]: 
+
+- Source code: https://github.com/PocketMine-Fenix/PocketMine-Fenix
+- Free plugins: https://poggit.pmmp.io/plugins
+- Bug reporting: https://github.com/PocketMine-Fenix/PocketMine-Fenix/issues
+
+2026-09-27 [03:34:42.741] [Server thread/INFO]: Done (0.725s)! For help, type "help" or "?"
+2026-09-27 [03:35:07.606] [Server thread/INFO]: [NetworkSession: 201.114.107.121 41023] Session opened
+2026-09-27 [03:35:07.609] [Server thread/INFO]: [NetworkSession: 201.114.107.121 41023] [FENIX-BEDROCK] #0001 OUT pocketmine\network\mcpe\protocol\NetworkSettingsPacket pid=143 bytes=12 sha256=4b39a1c6135f69c6 head=8f0101000000000000000000
+2026-09-27 [03:35:08.467] [Server thread/INFO]: [NetworkSession: 201.114.107.121 41023] [FENIX-BEDROCK] #0002 IN pocketmine\network\mcpe\protocol\LoginPacket pid=1 bytes=588012 sha256=e3af4b208b4cbc1e head=0100000891e4f123580400007b2241757468656e7469636174696f6e54797065223a302c22546f6b656e223a2265794a
+2026-09-27 [03:35:08.476] [Server thread/INFO]: [NetworkSession: 201.114.107.121 41023] Player: zIx45351N0lz
+2026-09-27 [03:35:08.477] [Server thread/NOTICE]: [Minecraft Auth Key Provider] Fetching new authentication keys
+2026-09-27 [03:35:09.223] [Server thread/INFO]: [Minecraft Auth Key Provider] Successfully fetched 3 new authentication keys from issuer https://authorization.franchise.minecraft-services.net/, key IDs: 472E53B520276E1F3B6BA6F95EBF09D61C2568BE, 3D5C5F6F4FBD601B0A451D7759A8730F34A6DA51, 31C1F30E3812C23912153BA83A4EC537E0E6CE84
+2026-09-27 [03:35:09.240] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0003 OUT pocketmine\network\mcpe\protocol\ServerToClientHandshakePacket pid=3 bytes=426 sha256=bb4377971a8a1024 head=03a70365794a344e5855694f694a4e53466c335255465a53457476576b6c36616a42445156465a526b73305255564251
+2026-09-27 [03:35:09.462] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0004 IN pocketmine\network\mcpe\protocol\ClientToServerHandshakePacket pid=4 bytes=1 sha256=e52d9c508c502347 head=04
+2026-09-27 [03:35:09.462] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0005 OUT pocketmine\network\mcpe\protocol\PlayStatusPacket pid=2 bytes=5 sha256=395c2f5598a1643a head=0200000000
+2026-09-27 [03:35:09.463] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0006 OUT pocketmine\network\mcpe\protocol\ResourcePacksInfoPacket pid=6 bytes=23 sha256=3ca4f9cda12a642b head=0600000001000000000000000000000000000000000000
+2026-09-27 [03:35:09.734] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0007 IN pocketmine\network\mcpe\protocol\ClientCacheStatusPacket pid=129 bytes=3 sha256=2097c83d834b8fb5 head=810101
+2026-09-27 [03:35:09.794] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0008 IN pocketmine\network\mcpe\protocol\ResourcePackClientResponsePacket pid=8 bytes=22 sha256=39508a98df7c979c head=080213646f776e6c6f6164696e6766696e6973686564
+2026-09-27 [03:35:09.795] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0009 OUT pocketmine\network\mcpe\protocol\ResourcePackStackPacket pid=7 bytes=336 sha256=7651a134d8951e98 head=0700072462343163323738352d633531322d346134392d616635362d33613837616664343763353707312e32312e3330
+2026-09-27 [03:35:10.469] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0010 IN pocketmine\network\mcpe\protocol\ResourcePackClientResponsePacket pid=8 bytes=28 sha256=4b9db4089452e29d head=0803197265736f757263657061636b737461636b66696e6973686564
+2026-09-27 [03:35:10.517] [Server thread/INFO]: zIx45351N0lz[/201.114.107.121:41023] logged in with entity id 1 at (world, 254.0586, 70.928, 224.2788)
+2026-09-27 [03:35:10.519] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0011 OUT pocketmine\network\mcpe\protocol\JigsawStructureDataPacket pid=313 bytes=66 sha256=a1aa8185406376ca head=b9020a00090a70726f636573736f72730a00090e74656d706c6174655f706f6f6c730a0009076a6967736177730a0009
+2026-09-27 [03:35:10.539] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0012 OUT pocketmine\network\mcpe\protocol\VoxelShapesPacket pid=337 bytes=23180 sha256=4c7fe95958ce6fbb head=d1029f0200000000010000000001000000000100000000010101010102000000000000803f02000000000000803f0200
+2026-09-27 [03:35:10.542] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0013 OUT pocketmine\network\mcpe\protocol\StartGamePacket pid=11 bytes=73114 sha256=be23eada2fe166e3 head=0b020102000f7e43171991425f47604320b7be4042e62d43ffffffffffffffff000000000200000480048c0180040100
+2026-09-27 [03:35:10.545] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0014 OUT pocketmine\network\mcpe\protocol\ItemRegistryPacket pid=162 bytes=111638 sha256=f1ebd0e3ec78840b head=a2019c10156d696e6563726166743a6163616369615f626f61747e0100040a0000176d696e6563726166743a61636163
+2026-09-27 [03:35:10.546] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0015 OUT pocketmine\network\mcpe\protocol\AvailableActorIdentifiersPacket pid=119 bytes=8908 sha256=037ff70137e066f2 head=770a00090669646c6973740a920208036269640a6d696e6563726166743a010b686173737061776e6567670008026964
+2026-09-27 [03:35:10.546] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0016 OUT pocketmine\network\mcpe\protocol\BiomeDefinitionListPacket pid=122 bytes=7668 sha256=acf9d375343897b3 head=7a590000ffff0000003f0000003f00000000000080bfcdcccc3dd48717a501010501000200030004000500000600ffff
+2026-09-27 [03:35:10.549] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0017 OUT pocketmine\network\mcpe\protocol\AvailableCommandsPacket pid=76 bytes=3364 sha256=44e4a7f7d2e09f77 head=4c150773756963696465046b696c6c05756e62616e06706172646f6e08756e62616e2d697009706172646f6e2d697002
+2026-09-27 [03:35:10.549] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0018 OUT pocketmine\network\mcpe\protocol\UpdateAbilitiesPacket pid=187 bytes=35 sha256=138e4d10ebc3d754 head=bb0101000000000000000201010100ffff0f00ff0d0000cdcc4c3d0000803fcdcccc3d
+2026-09-27 [03:35:10.549] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0019 OUT pocketmine\network\mcpe\protocol\UpdateAdventureSettingsPacket pid=188 bytes=7 sha256=b1277b141faca248 head=bc010000000101
+2026-09-27 [03:35:10.551] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0020 OUT pocketmine\network\mcpe\protocol\InventoryContentPacket pid=49 bytes=301 sha256=36d63e3373b839ed head=310024000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+2026-09-27 [03:35:10.551] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0021 OUT pocketmine\network\mcpe\protocol\InventoryContentPacket pid=49 bytes=349 sha256=5c8e6933d460cc66 head=31002432014000000102000a0000000000000000000036ff4000000104ddc685e80c0a000000000000000000005f0101
+2026-09-27 [03:35:10.551] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0022 OUT pocketmine\network\mcpe\protocol\InventoryContentPacket pid=49 bytes=21 sha256=72f490538e05596a head=317701000000000000000000000000000000000000
+2026-09-27 [03:35:10.551] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0023 OUT pocketmine\network\mcpe\protocol\InventoryContentPacket pid=49 bytes=21 sha256=72f490538e05596a head=317701000000000000000000000000000000000000
+2026-09-27 [03:35:10.551] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0024 OUT pocketmine\network\mcpe\protocol\InventoryContentPacket pid=49 bytes=45 sha256=9c99e3f18c771c0c head=317804000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+2026-09-27 [03:35:10.551] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0025 OUT pocketmine\network\mcpe\protocol\InventoryContentPacket pid=49 bytes=45 sha256=9c99e3f18c771c0c head=317804000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+2026-09-27 [03:35:10.551] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0026 OUT pocketmine\network\mcpe\protocol\InventorySlotPacket pid=50 bytes=13 sha256=b2b569df4408e197 head=327c0000000000000000000000
+2026-09-27 [03:35:10.551] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0027 OUT pocketmine\network\mcpe\protocol\InventorySlotPacket pid=50 bytes=13 sha256=8eae216203eaf0cb head=327c1c00000000000000000000
+2026-09-27 [03:35:10.551] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0028 OUT pocketmine\network\mcpe\protocol\InventorySlotPacket pid=50 bytes=13 sha256=26a4b02324ab4f8c head=327c1d00000000000000000000
+2026-09-27 [03:35:10.551] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0029 OUT pocketmine\network\mcpe\protocol\InventorySlotPacket pid=50 bytes=13 sha256=f3d0e200407f320e head=327c1e00000000000000000000
+2026-09-27 [03:35:10.551] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0030 OUT pocketmine\network\mcpe\protocol\InventorySlotPacket pid=50 bytes=13 sha256=800e484c6229e273 head=327c1f00000000000000000000
+2026-09-27 [03:35:10.551] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0031 OUT pocketmine\network\mcpe\protocol\MobEquipmentPacket pid=31 bytes=24 sha256=4f27b44ae24d9c16 head=1f0132014000000102000a00000000000000000000000000
+2026-09-27 [03:35:10.585] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0032 OUT pocketmine\network\mcpe\protocol\CreativeContentPacket pid=145 bytes=50578 sha256=486eee88237432e4 head=91016b01156974656d47726f75702e6e616d652e706c616e6b730a010000ecead8a80e2effff010a00000318005f5f5f
+2026-09-27 [03:35:10.585] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0033 OUT pocketmine\network\mcpe\protocol\TrimDataPacket pid=302 bytes=1141 sha256=91f066f8af3ed456 head=ae02102c6d696e6563726166743a636f6173745f61726d6f725f7472696d5f736d697468696e675f74656d706c617465
+2026-09-27 [03:35:10.634] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0034 OUT pocketmine\network\mcpe\protocol\CraftingDataPacket pid=52 bytes=451943 sha256=0977b36cb7f56499 head=349e072465666164396662302d623565302d346434632d393739362d61353936336336656639643502040201046e616d
+2026-09-27 [03:35:10.635] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0035 OUT pocketmine\network\mcpe\protocol\PlayerListPacket pid=63 bytes=16607 sha256=5a14b8bfec09134b head=3f0101005f30b04b72479f1173a38e26a0660b88020c7a497834353335314e306c7a1032353335343135313433323535
+2026-09-27 [03:35:12.694] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0036 OUT pocketmine\network\mcpe\protocol\SetTimePacket pid=10 bytes=4 sha256=302cdfc89f16e141 head=0afec111
+2026-09-27 [03:35:12.987] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0037 IN pocketmine\network\mcpe\protocol\RequestChunkRadiusPacket pid=69 bytes=3 sha256=bb68ba1491c02a18 head=452c16
+2026-09-27 [03:35:12.988] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0038 OUT pocketmine\network\mcpe\protocol\ChunkRadiusUpdatedPacket pid=70 bytes=2 sha256=7f48535770b90535 head=4620
+2026-09-27 [03:35:12.988] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0039 IN pocketmine\network\mcpe\protocol\ServerboundLoadingScreenPacket pid=312 bytes=4 sha256=266efadddcd7f668 head=b8020200
+2026-09-27 [03:35:12.994] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0040 OUT pocketmine\network\mcpe\protocol\NetworkChunkPublisherUpdatePacket pid=121 bytes=13 sha256=fa208729fb0008d9 head=79fc038c01c003800200000000
+2026-09-27 [03:35:15.510] [Server thread/CRITICAL]: Error: "Object of class pocketmine\lang\Translatable could not be converted to string" (EXCEPTION) in "pmsrc/src/network/mcpe/NetworkSession" at line 995
+--- Stack trace ---
+  #0 pmsrc/src/network/mcpe/raklib/RakLibInterface(169): pocketmine\network\mcpe\NetworkSession->onClientDisconnect(object pocketmine\lang\Translatable#239649)
+  #1 pmsrc/vendor/pocketmine/raklib-ipc/src/RakLibToUserThreadMessageReceiver(72): pocketmine\network\mcpe\raklib\RakLibInterface->onClientDisconnect(int 0, int 0)
+  #2 pmsrc/src/network/mcpe/raklib/RakLibInterface(111): raklib\server\ipc\RakLibToUserThreadMessageReceiver->handle(object pocketmine\network\mcpe\raklib\RakLibInterface#284436)
+  #3 pmsrc/src/TimeTrackingSleeperHandler(58): pocketmine\network\mcpe\raklib\RakLibInterface->pocketmine\network\mcpe\raklib\{closure}()
+  #4 pmsrc/vendor/pocketmine/snooze/src/SleeperHandler(120): pocketmine\TimeTrackingSleeperHandler->pocketmine\{closure}()
+  #5 pmsrc/src/TimeTrackingSleeperHandler(77): pocketmine\snooze\SleeperHandler->processNotifications()
+  #6 pmsrc/vendor/pocketmine/snooze/src/SleeperHandler(79): pocketmine\TimeTrackingSleeperHandler->processNotifications()
+  #7 pmsrc/src/Server(1869): pocketmine\snooze\SleeperHandler->sleepUntil(float 1790480113.1443)
+  #8 pmsrc/src/Server(1222): pocketmine\Server->tickProcessor()
+  #9 pmsrc/src/PocketMine(389): pocketmine\Server->__construct(object pocketmine\thread\ThreadSafeClassLoader#6, object pocketmine\utils\MainLogger#2, string[16] /home/container/, string[24] /home/container/plugins/)
+  #10 pmsrc/src/PocketMine(412): pocketmine\server()
+  #11 pmsrc(170): require(string[75] phar:///tmp/PocketMine-Fenix-phar-cache.0/PMMP43qrpi.tar/src/PocketMine.php)
+--- End of exception information ---
+2026-09-27 [03:35:15.593] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
+2026-09-27 [03:35:15.596] [Server thread/EMERGENCY]: Please upload the "/home/container/crashdumps/2026-09-27_03.35.15_UTC.log" file to the Crash Archive and submit the link to the Bug Reporting page. Give as much info as you can.
+2026-09-27 [03:35:15.597] [Server thread/EMERGENCY]: Forcing server shutdown
+2026-09-27 [03:35:15.597] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] #0041 OUT pocketmine\network\mcpe\protocol\DisconnectPacket pid=5 bytes=18 sha256=6d2d2109574e10b8 head=0500000d53657276657220636c6f73656400
+2026-09-27 [03:35:15.600] [Server thread/WARNING]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] ===== 1.26.x DISCONNECT DIAGNOSTIC =====
+2026-09-27 [03:35:15.601] [Server thread/WARNING]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] protocol=2193 session=zIx45351N0lz reason=Server closed
+2026-09-27 [03:35:15.601] [Server thread/WARNING]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] last OUT: #0041 OUT pocketmine\network\mcpe\protocol\DisconnectPacket pid=5 bytes=18 sha256=6d2d2109574e10b8 head=0500000d53657276657220636c6f73656400
+2026-09-27 [03:35:15.601] [Server thread/WARNING]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] last IN : #0039 IN pocketmine\network\mcpe\protocol\ServerboundLoadingScreenPacket pid=312 bytes=4 sha256=266efadddcd7f668 head=b8020200
+2026-09-27 [03:35:15.601] [Server thread/WARNING]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] Likely failing stage based on last OUT packet: unknown
+2026-09-27 [03:35:15.601] [Server thread/WARNING]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] The Bedrock 'Block' help.minecraft.net screen is client-generated; Bedrock does not normally send that human-readable error text back to the server. The trace above identifies the exact last serverbound/clientbound packet and its wire bytes immediately before the disconnect.
+2026-09-27 [03:35:15.601] [Server thread/WARNING]: [NetworkSession: zIx45351N0lz] [FENIX-BEDROCK] ===== END DIAGNOSTIC =====
+2026-09-27 [03:35:15.601] [Server thread/INFO]: [NetworkSession: zIx45351N0lz] Session closed: Server closed
+2026-09-27 [03:35:15.601] [Server thread/INFO]: Unloading world "world"
+2026-09-27 [03:35:16.999] [AsyncWorker#10 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 98.38 ms (44991 -> 0 roots, 0 cycles collected)
+2026-09-27 [03:35:17.002] [AsyncWorker#9 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 101.31 ms (44991 -> 0 roots, 0 cycles collected)
+2026-09-27 [03:35:18.901] [AsyncWorker#19 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 102.99 ms (44991 -> 0 roots, 0 cycles collected)
+2026-09-27 [03:35:20.101] [AsyncWorker#20 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 104.40 ms (44991 -> 0 roots, 0 cycles collected)
+2026-09-27 [03:35:20.198] [AsyncWorker#22 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 97.56 ms (44991 -> 0 roots, 0 cycles collected)
+2026-09-27 [03:35:20.399] [AsyncWorker#24 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 92.47 ms (44991 -> 0 roots, 0 cycles collected)
+2026-09-27 [03:35:20.594] [AsyncWorker#23 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 95.67 ms (44991 -> 0 roots, 0 cycles collected)
+2026-09-27 [03:35:31.809] [AsyncWorker#28 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 205.99 ms (92091 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:35:32.002] [AsyncWorker#27 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 209.41 ms (92098 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:35:32.003] [AsyncWorker#26 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 408.93 ms (92091 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:35:32.095] [AsyncWorker#25 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 408.99 ms (92091 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:35:32.099] [AsyncWorker#29 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 302.46 ms (92090 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:35:32.204] [AsyncWorker#18 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 407.51 ms (92094 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:35:32.995] [AsyncWorker#16 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 189.88 ms (92091 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:35:34.698] [AsyncWorker#17 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 285.19 ms (92094 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:35:37.203] [AsyncWorker#15 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 404.75 ms (92091 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:35:38.298] [AsyncWorker#13 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 591.32 ms (92094 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:35:38.301] [AsyncWorker#14 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 394.11 ms (92094 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:35:40.212] [AsyncWorker#1 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 295.69 ms (92091 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:35:40.405] [AsyncWorker#7 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 205.46 ms (92098 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:35:40.498] [AsyncWorker#4 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 298.97 ms (92091 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:35:40.593] [AsyncWorker#6 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 127.47 ms (92098 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:35:40.594] [AsyncWorker#3 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 215.78 ms (92098 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:35:40.619] [AsyncWorker#12 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 124.66 ms (92091 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:35:40.697] [AsyncWorker#5 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 184.42 ms (92091 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:35:40.700] [AsyncWorker#0 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 190.22 ms (92099 -> 266 roots, 63 cycles collected)
+2026-09-27 [03:35:40.704] [AsyncWorker#2 thread/WARNING]: [Cyclic Garbage Collector] Slow GC run #1 took 209.71 ms (92098 -> 266 roots, 63 cycles collected)
